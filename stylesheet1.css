@@ -1,0 +1,30 @@
+body {
+  margin: 10;
+  background-color: #A0522D;
+  text-align: center;
+}
+ h1 {
+ 	color: #FFD700;
+ }
+ h2 {
+ 	font-family: "Brush Script MT";
+ 	color: #F4A460;
+ }
+ .btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.tombol {
+	background-color: #FFD700;
+}
