@@ -1,0 +1,38 @@
+body {
+  margin: 10;
+  background-image: url(cho.jpg);
+  text-align: center;
+}
+
+@media(max-width: 670px) {
+  body {
+  background-size: cover;
+  margin: 10;
+  text-align: center;
+  }
+  .judul {
+    width: 600px;
+  }
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.tombol {
+  background-color: #FFD700;
+}
+.wish {
+  background-color: #708090;
+}
