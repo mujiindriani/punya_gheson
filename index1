@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birtday Cho :)</title>
+	<link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<div class="judul">
+	<img src="kartun1.png" height="250px" width="250px">
+	<h1>HELLO SALWA!</h1>
+	<H2>are you ready for this?</H2>
+	<div class="btn-wrapper">
+		<a href="begin/index.html" class="btn tombol">Yes, I am!</a>
+	</div>
+</div>
+</body>
+</html>
